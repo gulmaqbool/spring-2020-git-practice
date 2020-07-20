@@ -12,3 +12,5 @@ black
 brown
 yellow
 maroon
+vilot
+apiricot
