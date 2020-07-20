@@ -9,5 +9,10 @@ Audi
 Lexus
 KIA
 Tesla
+<<<<<<< Updated upstream
 Jeep 
 
+=======
+Nissan
+Ferrari
+>>>>>>> Stashed changes
