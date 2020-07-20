@@ -3,9 +3,8 @@ blue
 green
 purple
 orange
-red
 white
 grey
 pink
 black
-navy blue
+//I have changed some of the colors on 07/20/2020
