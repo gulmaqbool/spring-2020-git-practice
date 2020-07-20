@@ -6,3 +6,6 @@ orange
 red
 white
 grey
+pink
+black
+navy blue
