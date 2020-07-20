@@ -3,3 +3,6 @@ blue
 green
 purple
 orange
+red
+white
+grey
